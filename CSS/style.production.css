@@ -4,11 +4,6 @@
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
-
-:root{ 
-    /* all colors were essentially made into this key above */
-  }
-
   a {
     color: #357b70;
   }
