@@ -1,3 +1,6 @@
 # briandapanda.github.io
-Main hub for all work regarding CareerFoundry projects
+Welcome to my working portfolio project as I grow as a web developer. 
+
+Thanks! 
+
 
