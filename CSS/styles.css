@@ -145,11 +145,14 @@ button:hover, button:focus, .button:hover, .button:focus {
 .grid__item {
     background-color: var(--grid-item-bg-color);
     padding: 0.3%;
+    padding: 20px;
+    border-radius: 10px;
 }
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
+    padding: 20px;
 
 }
 
